@@ -12,6 +12,8 @@ workshops related to genomics, transcriptomics, cancer, R, biostatistics, etc.
 - [EMBL Conferences and Courses](https://www.embl.de/training/events/index.php)
 - [Conferences and workshops relevant to quantitative gene regulation](https://generegulation.org/conferences-meetings-schools/)
 - [CSAMA Statistical Data Analysis for Genome Scale Biology](https://www.huber.embl.de/csama2019/)
+- [EMBO](http://www.embo.org/)
+- [FEBS](https://www.febs.org/)
 
 ## Conference recommendations
 
